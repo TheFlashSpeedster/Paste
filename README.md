@@ -1,5 +1,6 @@
 # pasty
-Pasty is a fast and lightweight code pasting server
+Pasty is a fast and lightweight code pasting server. 
+This fork is a modified version of [lus/pasty](https://github.com/lus/pasty) for personal use.
 
 ## !!! Important deprecation notices !!!
 
